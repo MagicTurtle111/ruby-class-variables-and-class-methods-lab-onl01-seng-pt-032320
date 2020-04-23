@@ -60,6 +60,7 @@ class Song
   end
   attr_accessor :name, :artist, :genre
 end 
+end
 
 the_day = Song.new("The Day", "John Smith", "classic")
 tomorow = Song.new("Tomorow", "John Smith", "classic")
