@@ -66,3 +66,5 @@ tomorow = Song.new("Tomorow", "John Smith", "classic")
 a_yearz = Song.new("A Yearz", "Adam Johns", "oldtime")
 a_rabess = Song.new("Arabess", "Habibi Watan", "Rai")
 cus_umak = Song.new("Cus Ummach", "Haifa Wehbe", "Rai")
+
+Song.genre_count
